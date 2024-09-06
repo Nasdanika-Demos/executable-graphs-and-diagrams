@@ -5,7 +5,8 @@ Action:
     children:
       - Action:
           location: ${base-uri}index.html
-          text: Declarative Command Pipelines
+          text: Executable Graphs and Diagrams
+          icon: https://docs.nasdanika.org/images/data-flow.svg
           content:
             Interpolator:
               source:
